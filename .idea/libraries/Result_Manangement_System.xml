@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Result_Manangement_System">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Result_Manangement_System.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
